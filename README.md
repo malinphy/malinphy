@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 [Recommender Systems](https://github.com/malinphy/recommender_sys)
 Deep learning based modern recommendation systems has been worked. 
-- [Two Stage Recommender System](https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess)
+- [Two Stage Recommender System]([https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess](https://github.com/malinphy/two_stage_recommender))
   - Retrieval part to reduce the number of potential items   
   - Ranking part to provide a recommendation list of items for each user.
 - [Convolutional Ranking based recommender system](https://github.com/malinphy/Caser_Model)
