@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   - Sentiment classification on twitter dataset. Deep neural network system on multi-class classification. 
   
 - [Question Answering](https://github.com/malinphy/question_answering)
-  - Tensorflow/Keras implementation of Question answer matching system. In short, this project is designed for finding the best possible answers for related   questions.
+  - Question answering with BERT model on SQUAD v1.1..
 
 
 [Recommender Systems](https://github.com/malinphy/recommender_sys)
