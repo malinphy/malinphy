@@ -39,6 +39,7 @@ Deep learning based modern recommendation systems has been worked.
   - Neural network approach of matrix factorization   
   
 
+[Agents/Travel_Agent]([https://github.com/malinphy/stats](https://github.com/malinphy/travel_plan))
 
 
 [A\B Testing](https://github.com/malinphy/stats)
