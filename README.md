@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   
 - [Question Answering](https://github.com/malinphy/question_answering)
   - Question answering with BERT model on SQUAD v1.1..
-- [Active Learning for Hate Speech Detection]([https://github.com/malinphy/question_answering](https://github.com/malinphy/active_learning))
+- [Active Learning for Hate Speech Detection](https://github.com/malinphy/active_learning)
   - Problem of detecting hate speech, offensive language, and neutral tweets with minimal labeled data through iterative model improvement
 
 [Recommender Systems](https://github.com/malinphy/recommender_sys)
