@@ -38,7 +38,16 @@ Deep learning based modern recommendation systems has been worked.
   - Personalized Sequential Recommender System
 - [Neural Collaborative Filtering](https://github.com/malinphy/neural_collaborative_filtering)
   - Neural network approach of matrix factorization   
-  
+- [E-commerce Search System](https://github.com/malinphy/e_commerce_search)
+  - Engineered a three-stage e-commerce search systemusing fine-tuned deep learning models, (retrieval, pre-ranking, re-ranking)
+  - Two-tower and cross-encoder architectures optimized for product relevance.
+- [Next Trip Recommendation System](https://github.com/malinphy/NextTripRecSys)
+  - Sequential Recommendation System
+  - Next hotel prediction based on user history
+ 
+- [Personalized hotel ranking](https://github.com/malinphy/personalized-hotel-ranking)
+  - Click-Through (CTR) and Conversion Rates (CVR) prediction
+  - personalized hotel search
 
 [Agents/Travel_Agent](https://github.com/malinphy/travel_plan)
 
