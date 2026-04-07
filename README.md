@@ -50,6 +50,7 @@ Deep learning based modern recommendation systems has been worked.
   - personalized hotel search
 
 [Agents/Travel_Agent](https://github.com/malinphy/travel_plan)
-
-
+  - A conversational travel planning assistant powered by a multi-agent AI system
+  - Search for flights, hotels, and restaurants through a natural chat interface
+    
 [A\B Testing](https://github.com/malinphy/stats)
